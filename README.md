@@ -1,7 +1,6 @@
 # ✈️ Hi，我是 kanga
 
-![Boeing 777-300ER](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Japan_Airline%2C_Boeing_777-300ER_JA740J_NRT_%2816954459374%29.jpg/1280px-Japan_Airline%2C_Boeing_777-300ER_JA740J_NRT_%2816954459374%29.jpg)
-*Photo: Wikimedia Commons*
+![Boeing 777X](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Boeing_777X_at_Dubai_Airshow_2021_3.jpg/1280px-Boeing_777X_at_Dubai_Airshow_2021_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ![route map](route-map.svg)
 
